@@ -93,9 +93,9 @@ content:
         caption: 2018.04 ~ 2018.12
      #  link: Link to company (optional)
         quote: >
-          Short description of the company (optional)
+    #      Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of role
+    #      Description of role
   - title: Skill
     layout: list
     content:
