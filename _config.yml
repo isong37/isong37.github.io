@@ -44,6 +44,8 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       **동국대학교 일반대학원 컴퓨터공학과 석사과정**
+    
+    layout: list    
     content:
       - layout: left
         title: 
@@ -54,15 +56,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description of qualification
           
-    content: 
-      - layout: left
-        title: 
-        sub_title: 동국대학교 일반대학원 컴퓨터공학과 석사과정
-        caption: 2020.09 - 현재
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification 
           
   - title: EXPERIENCE
     layout: list
