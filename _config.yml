@@ -42,18 +42,6 @@ about_content: | # this will include new lines to allow paragraphs
 
 
 content:
-  - title: EDUCATION
-    layout: list
-    content:
-      - layout: left
-        title: 
-        sub_title: 동국대학교 일반대학원 컴퓨터공학과 석사 과정
-        caption: 2020.09 - 현재
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
-          
    - title: Experience
     layout: list
     content:
@@ -78,6 +66,7 @@ content:
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Description of qualification
+          
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
