@@ -47,8 +47,8 @@ content:
     content:
       - layout: left
         title: 
-        sub_title: Python
-        caption: Date Range (eg. 2016 - 2019)
+        sub_title: 동국대학교 일반대학원 컴퓨터공학과 석사 과정
+        caption: 2020.09 - 현재
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
@@ -60,7 +60,7 @@ content:
       - layout: left
         title: DK EYEWEAR GROUP
         sub_title: 기획
-        caption: 2019.04 ~ 2019.12
+        caption: 2019.04 - 2019.12
         link: Link to company (optional)
         quote: >
           Short description of the company (optional)
