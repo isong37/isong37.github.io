@@ -62,6 +62,20 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
+          
+   - title: Experience
+    layout: list
+    content:
+      - layout: left
+        title: DK EYEWEAR GROUP
+        sub_title: 기획
+        caption: 2019.04 ~ 2019.12
+        link: Link to company (optional)
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
+          
   - title: Skill
     layout: list
     content:
