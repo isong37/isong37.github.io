@@ -73,23 +73,23 @@ content:
         description: | # this will include new lines to allow paragraphs
       - layout: left
         title: 
-        sub_title: Spanich
+        sub_title: Spanish
         caption: DELE B2
         quote: >   
         description: | # this will include new lines to allow paragraphs
         
-  - title: CERTIFICAT
+  - title: CERTIFICATE
     layout: list
     content:
       - layout: left
         title: 
-        sub_title: **정보처리기사**
+        sub_title: 정보처리기사
         caption: 2016.07.15
         quote: >
         description: | # this will include new lines to allow paragraphs
       - layout: left
         title: 
-        sub_title: **유통관리사 2급**
+        sub_title: 유통관리사 2급
         caption: 2016.05.11
         quote: >   
         description: | # this will include new lines to allow paragraphs          
