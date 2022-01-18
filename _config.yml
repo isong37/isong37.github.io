@@ -84,7 +84,9 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+      - [2020.09 ~ 현재] **동국대학교 일반대학원 컴퓨터공학과 석사과정**
+      - [2013.03 ~ 2017.02] 충남대학교 농업생명과학대학 농업경제학과
+      - [2009.03 ~ 2012.02] Asuncion High School 
 
       Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
