@@ -53,7 +53,7 @@ content:
   - title: WORK
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - [2020.01 ~ 2020.05]   **(주)아리온테크놀로지(유니크랩)- 마케팅기획**
+      - [2020.01 ~ 2020.05]   **(주)아리온테크놀로지(유니크랩)- 마케팅 기획**
       - [2020.04 ~ 2020.12]   **(유)DK EYEWEAR GROUP - 로컬사업부 기획**
 
   - title: EXPERIENCE
