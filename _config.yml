@@ -67,7 +67,7 @@ content:
       - [2017.02] 특허 출원: **데이터 저장이 가능한 휴대용 스캔 장치**, 출원번호: 2017-0013776
  
       
-  - title: Language
+  - title: LANGUAGE
     layout: list
     content:
       - layout: left
@@ -77,8 +77,6 @@ content:
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-         
-
       - layout: left
         title: 
         sub_title: Spanich
@@ -87,6 +85,23 @@ content:
           
         description: | # this will include new lines to allow paragraphs
           
+   - title: CERTIFICATE
+    layout: list
+    content:
+      - layout: left
+        title: 
+        sub_title: 정보처리기사 
+        caption: 2016.07.15
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+      - layout: left
+        title: 
+        sub_title: 유통관리사 2급
+        caption: 2016.05.11
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
 
 
 # Footer
