@@ -37,8 +37,7 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/증명사진.jpg
 about_content: | # this will include new lines to allow paragraphs
-  
- 
+
 content: 
   - title: EDUCATION
     layout: text
@@ -65,7 +64,6 @@ content:
     content: | # this will include new lines to allow paragraphs
       - [2021.04 ~ 2021.10]   교육 수료: **2021 국가 암호기술 전문인력 양성과정**
       - [2017.02] 특허 출원: **데이터 저장이 가능한 휴대용 스캔 장치**, 출원번호: 2017-0013776
- 
       
   - title: LANGUAGE
     layout: list
@@ -75,14 +73,12 @@ content:
         sub_title: English
         caption: OPIC IH 
         quote: >
-          
         description: | # this will include new lines to allow paragraphs
       - layout: left
         title: 
         sub_title: Spanich
         caption: DELE B2
-        quote: >
-          
+        quote: >   
         description: | # this will include new lines to allow paragraphs
           
    - title: CERTIFICATE
