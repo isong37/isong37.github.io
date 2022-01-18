@@ -67,17 +67,25 @@ content:
       - [2017.02] 특허 출원: **데이터 저장이 가능한 휴대용 스캔 장치**, 출원번호: 2017-0013776
  
       
-  - title: Skill
+  - title: Language
     layout: list
     content:
       - layout: left
         title: 
-        sub_title: Python
-        caption: Date Range (eg. 2016 - 2019)
+        sub_title: English
+        caption: OPIC IH 
         quote: >
-          Short institution or course description (optional)
+          
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+         
+    content:
+      - layout: left
+        title: 
+        sub_title: Spanich
+        caption: DELE B2
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
           
 
 
