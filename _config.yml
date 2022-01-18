@@ -78,7 +78,7 @@ content:
           
         description: | # this will include new lines to allow paragraphs
          
-    content:
+
       - layout: left
         title: 
         sub_title: Spanich
