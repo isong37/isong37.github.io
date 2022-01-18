@@ -43,22 +43,31 @@ content:
   - title: EDUCATION
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - [2020.09 ~ 현재] **동국대학교 일반대학원 컴퓨터공학과 석사과정**
-      - [2013.03 ~ 2017.02] **충남대학교 농업생명과학대학 농업경제학 전공, 컴퓨터공학 부전공**
-      - [2009.03 ~ 2012.02] **Asuncion High School** 
+      - [2020.09 ~ 현   재]   **동국대학교 일반대학원 컴퓨터공학과 석사과정**
+      - [2013.03 ~ 2017.02]   **충남대학교 농업생명과학대학 농업경제학 전공/ 컴퓨터공학 부전공**
+      - [2009.03 ~ 2012.02]   **Asuncion High School** 
+
+  - title: RESEARCH
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - [2020.05]  **이송이, 문봉교, "이미지와 메타데이터를 활용한 CNN 기반의 악성코드 패밀리 분류 기법"**, 정보처리학회 2021년 춘계학술발표대회 논문집 제28권 제1호, pp.212-215
       
   - title: WORK
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - [2020.01 ~ 2020.05] **아리온테크놀로지(유니크랩), 마케팅기획**
-      - [2020.04 ~ 2020.12] **DK EYEWEAR GROUP, 기획**
+      - [2020.01 ~ 2020.05]   **(주)아리온테크놀로지(유니크랩)- 마케팅기획**
+      - [2020.04 ~ 2020.12]   **DK EYEWEAR GROUP - 기획**
 
   - title: EXPERIENCE
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - [2021.04 ~ 2021.10] **2021 국가 암호기술 전문인력 양성과정**
+      - [2021.04 ~ 2021.10]   **2021 국가 암호기술 전문인력 양성과정**
  
-          
+  - title: AWARDS
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - [2021.04 ~ 2021.10]   **2021 국가 암호기술 전문인력 양성과정**
+      
   - title: Skill
     layout: list
     content:
