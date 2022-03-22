@@ -39,7 +39,7 @@ content:
   - title: EDUCATION
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - [2020.09 ~ ]   **Master's course graduate student in computer science and engineering, Dongguk University, Seoul, Korea**
+      - [2020.09 ~ 2022.09]   **Master's course graduate student in computer science and engineering, Dongguk University, Seoul, Korea**
       - [2013.03 ~ 2017.02]   **B.S. degree in Agricultural Economics (minor: Computer Science), Chungnam National University, Daejeon, Korea**
       - [2009.03 ~ 2012.02]   **Asuncion High School**, Paraguay
 
