@@ -46,22 +46,21 @@ content:
   - title: RESEARCH
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - [2021.05]  **이송이, 문봉교, 김준태 "이미지와 메타데이터를 활용한 CNN 기반의 악성코드 패밀리 분류 기법"**, 정보처리학회 2021년 춘계학술발표대회 논문집 제28권 제1호, pp.212-215
-                   **Songyi Lee, Bongkyo Moon, Juntae Kim, "Malware Classification Schemes Based on CNN Using Images and Metadata", Korea Information Processing Society 2021 Conference.
-      - [2015.07]  **이송이, 박연아, "옴니 채널을 이용한 농산물 소비 확대 방안" (탐구상 수상)**, KREI - 한국농식품정책학회, 제25회 대학생 논문경진대회
-      - [2014.07]  **김은지‧송예지‧이송이‧황수진, "쌀 과자 소비실태분석 및 경쟁력 제고 방안: STP전략을 이용하여" (탐구상 수상)**, KREI - 한국농식품정책학회, 제24회 대학생 논문경진대회
+      - [2021.05]  **Songyi Lee, Bongkyo Moon, Juntae Kim, "Malware Classification Schemes Based on CNN Using Images and Metadata"**, Korea Information Processing Society 2021 Conference.
+      - [2015.07]  **Songyi Lee, Yeon-a Park, "Proposed Expansion of Agricultural Product Consumption Using Omni-Channel" (Awarded)**, 	KAAFP(Korean Association of Agricultural and Food Policy), 25th KAAFP Conference.
+      - [2014.07]  **Eunji Kim‧Yeji Song‧Songyi Lee‧Sujin Hwang, "Analysis of rice confectionery consumption and competitiveness improvement plan: Using STP strategy" (Awarded)**, KAAFP(Korean Association of Agricultural and Food Policy), 24th KAAFP Conference.
       
   - title: WORK
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - [2020.01 ~ 2020.05]   **(주)아리온테크놀로지(유니크랩) - 기획**
-      - [2020.04 ~ 2020.12]   **(유)DK EYEWEAR GROUP - 기획**
+      - [2020.01 ~ 2020.05]   **Arion Technology PLC (UNIQUE LAB) / Designer - Marketing Strategy Division**
+      - [2020.04 ~ 2020.12]   **DK EYEWEAR GROUP L.L.C / Designer - Business Planning Division**
 
   - title: EXPERIENCE
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - [2021.04 ~ 2021.10]  **2021 국가 암호기술 전문인력 양성과정**, 교육 수료
-      - [2017.02]  **데이터 저장이 가능한 휴대용 스캔 장치**, 특허 출원, 출원번호: 2017-0013776
+      - [2021.04 ~ 2021.10]  **2021 National Cryptographic Technology Specialist Training Course**, Certificated
+      - [2017.02]  **DATA STORAGE PORTABLE SCAN DEVICE**, Patent Pending (2017-0013776)
       
   - title: LANGUAGE
     layout: list
@@ -84,13 +83,13 @@ content:
     content:
       - layout: left
         title: 
-        sub_title: 정보처리기사
+        sub_title: Engineer Information Processing
         caption: 2016.07.15
         quote: >
         description: | # this will include new lines to allow paragraphs
       - layout: left
         title: 
-        sub_title: 유통관리사 2급
+        sub_title: Distribution Manager Level-Ⅱ
         caption: 2016.05.11
         quote: >   
         description: | # this will include new lines to allow paragraphs          
