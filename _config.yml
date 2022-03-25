@@ -63,7 +63,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       - [2021.04 ~ 2021.10]  **National Cryptographic Technology Specialist Training Course 2021**, National Security Research Institute, Certificated
-      - [2021.05 ~ 2021.09] Financial Security Camp 2021, Financial Security Institute, Certificated
+      - [2021.05 ~ 2021.09] **Financial Security Camp 2021**, Financial Security Institute, Certificated
       - [2017.02]  **Data Storage Portable Scan Device**, Patent Pending (No: 2017-0013776)
       
   - title: LANGUAGE
