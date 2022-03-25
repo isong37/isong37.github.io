@@ -46,7 +46,7 @@ content:
   - title: RESEARCH
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - [2022.03]  **Songyi Lee, "Automatic Stock Trading based on Deep Reinforcement Learning using XAI(Explainable AI)"**, ARTINTEL2022 (Artificial Intelligence, Machine Learning and Data Science World Conference).
+      - [2022.03]  **Songyi Lee, Bongkyo Moon, "Automatic Stock Trading based on Deep Reinforcement Learning using XAI(Explainable AI)"**, ARTINTEL2022 (Artificial Intelligence, Machine Learning and Data Science World Conference).
       - [2021.05]  **Songyi Lee, Bongkyo Moon, Juntae Kim, "Malware Classification Schemes Based on CNN Using Images and Metadata"**, 2021 Korea Information Processing Society Conference.
       - [2015.07]  **Songyi Lee, Yeon-a Park, "Proposed Expansion of Agricultural Product Consumption Using Omni-Channel" (Awarded)**, 	KAAFP(Korean Association of Agricultural and Food Policy), 25th KAAFP Conference.
       - [2014.07]  **Eunji Kim‧Yeji Song‧Songyi Lee‧Sujin Hwang, "Analysis of rice confectionery consumption and competitiveness improvement plan: Using STP strategy" (Awarded)**, KAAFP(Korean Association of Agricultural and Food Policy), 24th KAAFP Conference.
@@ -55,13 +55,14 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       - [2020.01 ~ 2020.05]   **ARION Technology Inc. (UNIQUE LAB) / Designer, Marketing Strategy Division**
-      - [2020.04 ~ 2020.12]   **DK EYEWEAR GROUP L.L.C / Designer, Business Planning Division**
+      - [2020.04 ~ 2020.12]   **DK EYEWEAR GROUP L.L.C / Designer, Local Sales Department**
 
   - title: EXPERIENCE
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - [2021.04 ~ 2021.10]  **2021 National Cryptographic Technology Specialist Training Course**, Certificated
-      - [2017.02]  **Data Storage Portable Scan Device**, Patent Pending (2017-0013776)
+      - [2021.04 ~ 2021.10]  **National Cryptographic Technology Specialist Training Course 2021**, National Security Research Institute, Certificated
+      - [2021.05 ~ 2021.09] Financial Security Camp 2021, Financial Security Institute, Certificated
+      - [2017.02]  **Data Storage Portable Scan Device**, Patent Pending (No: 2017-0013776)
       
   - title: LANGUAGE
     layout: list
