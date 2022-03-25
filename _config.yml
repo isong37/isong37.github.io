@@ -33,10 +33,10 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-Songyi Lee is a graduate student in computer science and engineering, Dongguk University, Seoul, Korea.
-Interests are Machine learning, Deep Reinforcement Learning, Data Science, Explainable AI(XAI).
 about_profile_image: images/증명사진_new.jpg
 about_content: | # this will include new lines to allow paragraphs
+  Songyi Lee is a graduate student in computer science and engineering, Dongguk University, Seoul, Korea.
+  Interests are Machine learning, Deep Reinforcement Learning, Data Science, Explainable AI(XAI).
 
 content: 
   - title: EDUCATION
