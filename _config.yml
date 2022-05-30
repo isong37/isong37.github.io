@@ -35,7 +35,7 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/증명사진_new.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Songyi Lee is a graduate student in computer science and engineering, Dongguk University, Seoul, Korea.
+  Songyi Lee is a graduate student in computer science and engineering, Dongguk University, Seoul, Korea.</br>
   Interests are Machine learning, Deep Reinforcement Learning, Data Science, Explainable AI(XAI).
 
 content: 
@@ -57,6 +57,7 @@ content:
   - title: WORK
     layout: text
     content: | # this will include new lines to allow paragraphs
+      - [2022.04 ~ present]   **Wolgye middle school / Python Teaching (After-school)** 
       - [2020.01 ~ 2020.05]   **ARION Technology Inc. (UNIQUE LAB) / Designer, Marketing Strategy Division**
       - [2020.04 ~ 2020.12]   **DK EYEWEAR GROUP L.L.C / Designer, Local Sales Department**
 
