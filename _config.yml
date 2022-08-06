@@ -11,7 +11,7 @@ title:
 email: happypine37@gmail.com
 # email_title: Email (Email title override)
 title:
-phone: +82) 010-4494-2646
+phone: +82) 010-5114-3997
 # phone_title: Phone (Phone title override)
 
 
@@ -44,7 +44,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       - [2020.09 ~ 2022.08]   **M.S.c in computer science & engineering, Dongguk University, Seoul, Korea**
-                                Master's Thesis: "A Study on the Optimization Method of Stock Trading Based on Deep Reinforcement Learning Using Explainable AI(XAI).", 2022.
+                              **Master's Thesis: "A Study on the Optimization Method of Stock Trading Based on Deep Reinforcement Learning Using Explainable AI(XAI).", 2022.**
       - [2013.03 ~ 2017.02]   **B.A. Major in Agricultural Economics, Minor in Computer Science & engineering, Chungnam National University, Daejeon, Korea**
       - [2009.03 ~ 2012.02]   **Asuncion High School**, Paraguay
 
