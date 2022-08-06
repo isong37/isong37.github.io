@@ -35,7 +35,7 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/증명사진_new.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am MSc in computer science & engineering at Dongguk University, Seoul, Korea.
+  I am **MSc in computer science & engineering** at Dongguk University, Seoul, Korea.
   
   
   
@@ -45,9 +45,9 @@ about_content: | # this will include new lines to allow paragraphs
 
 
 
-  Experience analyzing and modeling various domain data including finance, security, and medical.
+  * Experience analyzing and modeling various domain data including finance, security, and medical.
   
-  Experience in deep learning research (automating stock trading, detecting malware, classifying images of skin lesions, etc.)
+  * Experience in deep learning research (automating stock trading, detecting malware, classifying images of skin lesions, etc.)
 
 
 content: 
