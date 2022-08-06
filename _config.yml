@@ -98,6 +98,22 @@ content:
         quote: >   
         description: | # this will include new lines to allow paragraphs
         
+   - title: SKILL
+    layout: list
+    content:
+      - layout: left
+        title: 
+        sub_title: Python
+        caption: 
+        quote: >
+        description: | # this will include new lines to allow paragraphs
+      - layout: left
+        title: 
+        sub_title: MySQL
+        caption: 
+        quote: >   
+        description: | # this will include new lines to allow paragraphs 
+        
   - title: CERTIFICATE
     layout: list
     content:
