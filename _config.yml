@@ -35,16 +35,22 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/증명사진_new.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Songyi Lee is a graduate student in computer science and engineering, Dongguk University, Seoul, Korea.
+  I am MSc in computer science & engineering at Dongguk University, Seoul, Korea.
   
-  Interests are **Machine learning, Deep Reinforcement Learning, Data Science, Explainable AI(XAI)**.
+  I am interested in **machine learning, deep learning, reinforcement learning, and EXplainable AI (XAI).**
+  Also really interested in creating and providing solutions by applying AI technology and understanding of customers to MLOps
+
+- Experience analyzing and modeling various domain data including finance, security, and medical.
+- Experience in deep learning research (automating stock trading, detecting malware, classifying images of skin lesions, etc.)
+
 
 content: 
   - title: EDUCATION
     layout: text
     content: | # this will include new lines to allow paragraphs
       - [2020.09 ~ 2022.08]   **M.S.c in computer science & engineering, Dongguk University, Seoul, Korea**
-                              **Master's Thesis: "A Study on the Optimization Method of Stock Trading Based on Deep Reinforcement Learning Using Explainable AI(XAI).", 2022.**
+      
+                              Master's Thesis: "A Study on the Optimization Method of Stock Trading Based on Deep Reinforcement Learning Using Explainable AI(XAI).", 2022.
       - [2013.03 ~ 2017.02]   **B.A. Major in Agricultural Economics, Minor in Computer Science & engineering, Chungnam National University, Daejeon, Korea**
       - [2009.03 ~ 2012.02]   **Asuncion High School**, Paraguay
 
