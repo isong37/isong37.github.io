@@ -41,7 +41,7 @@ about_content: | # this will include new lines to allow paragraphs
   
   I am interested in **machine learning, deep learning, reinforcement learning, and EXplainable AI (XAI).**
   
-  Also really interested in creating and providing solutions by applying AI technology and understanding of customers to MLOps
+  Also really interested in creating and providing solutions by applying AI technology and understanding of customers
 
 
 
@@ -71,7 +71,8 @@ content:
   - title: WORK
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - [2022.04 ~ present]   **Wolgye middle school / Python Teaching (After-school)** 
+      - [2022.11 ~ present]   **KYOBO INFORMATION & COMMUNICATION CO., LTD./ AI Engineer, AI Business Team**
+      - [2022.04 ~ 2022.09]   **Wolgye middle school / Python Teaching (After-school)** 
       - [2020.01 ~ 2020.05]   **ARION Technology Inc. (UNIQUE LAB) / Designer, Marketing Strategy Division**
       - [2020.04 ~ 2020.12]   **DK EYEWEAR GROUP L.L.C / Designer, Local Sales Department**
 
