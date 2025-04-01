@@ -88,43 +88,59 @@ content:
       - [2017.02]  **Data Storage Portable Scan Device**, Patent Pending (No: 2017-0013776)
 
   - title: SKILL
-    layout: list
-    content:
-      - layout: left
-        sub_title: Programming Languages
-        caption: Python, JAVA
-        quote: >
-        description: |
+    layout: text
+    content: |
+      - **Programming Languages**
+        Python, Java  
+      - **Deep Learning & Data Science Frameworks**
+        PyTorch, TensorFlow, Keras, OpenCV, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn  
+      - **Database**
+        MySQL, PostgreSQL  
+      - **Development Tools & MLOps**
+        Git, Docker, Jupyter Notebook, VS Code, Eclipse 
+      - **CI/CD**
+        Jenkins  
+      - **Cloud Infrastructure**
+        AWS EC2, S3, Lambda, RDS, CloudWatch
 
-      - layout: left
-        sub_title: Deep Learning & Data Science Frameworks
-        caption: PyTorch, TensorFlow, Keras, OpenCV, Scikit-learn, Pandas, Numpy, Matplotlib, Seaborn
-        quote: >
-        description: |
+  # - title: SKILL
+  #   layout: list
+  #   content:
+  #     - layout: text
+  #       sub_title: Programming Languages
+  #       caption: Python, JAVA
+  #       quote: >
+  #       description: |
 
-      - layout: left
-        sub_title: Database
-        caption: MySQL, PostgreSQL
-        quote: >
-        description: |  
+  #     - layout: text
+  #       sub_title: Deep Learning & Data Science Frameworks
+  #       caption: PyTorch, TensorFlow, Keras, OpenCV, Scikit-learn, Pandas, Numpy, Matplotlib, Seaborn
+  #       quote: >
+  #       description: |
 
-      - layout: left
-        sub_title: Development Tools & MLOps
-        caption:  Git, Docker, Jupyter Notebook, VS Code, Eclipse
-        quote: >
-        description: |
+  #     - layout: text
+  #       sub_title: Database
+  #       caption: MySQL, PostgreSQL
+  #       quote: >
+  #       description: |  
 
-      - layout: left
-        sub_title: Cloud Infrastructure
-        caption:  AWS EC2, S3, Lambda, RDS, CloudWatch
-        quote: >
-        description: |
+  #     - layout: text
+  #       sub_title: Development Tools & MLOps
+  #       caption:  Git, Docker, Jupyter Notebook, VS Code, Eclipse
+  #       quote: >
+  #       description: |
 
-      - layout: left
-        sub_title: CI/CD
-        caption:  Jenkins
-        quote: >
-        description: |
+  #     - layout: text
+  #       sub_title: Cloud Infrastructure
+  #       caption:  AWS EC2, S3, Lambda, RDS, CloudWatch
+  #       quote: >
+  #       description: |
+
+  #     - layout: text
+  #       sub_title: CI/CD
+  #       caption:  Jenkins
+  #       quote: >
+  #       description: |
   
   - title: LANGUAGE
     layout: list
