@@ -91,7 +91,7 @@ content:
     layout: text
     content: |
       - **Programming Languages**
-        Python, Java
+        Python, Java, HTML, CSS
 
       - **Deep Learning & Data Science Frameworks**
         PyTorch, TensorFlow, Keras, OpenCV, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn  
@@ -104,7 +104,7 @@ content:
 
       - **CI/CD**
         Jenkins
-        
+
       - **Cloud Infrastructure**
         AWS EC2, S3, Lambda, RDS, CloudWatch
 
