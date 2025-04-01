@@ -91,15 +91,20 @@ content:
     layout: text
     content: |
       - **Programming Languages**
-        Python, Java  
+        Python, Java
+
       - **Deep Learning & Data Science Frameworks**
         PyTorch, TensorFlow, Keras, OpenCV, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn  
+
       - **Database**
-        MySQL, PostgreSQL  
+        MySQL, PostgreSQL
+
       - **Development Tools & MLOps**
         Git, Docker, Jupyter Notebook, VS Code, Eclipse 
+
       - **CI/CD**
-        Jenkins  
+        Jenkins
+        
       - **Cloud Infrastructure**
         AWS EC2, S3, Lambda, RDS, CloudWatch
 
