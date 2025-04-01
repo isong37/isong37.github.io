@@ -33,22 +33,26 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/증명사진_new.jpg
+about_profile_image: images/증사_이송이.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am **MSc in computer science & engineering** at Dongguk University, Seoul, Korea.
+  I am an **AI Engineer** at KyoboDTS, holding an **MSc in Computer Science and Engineering** from **Dongguk University, Seoul, Korea**.
   
+  My expertise lies in **machine learning, deep learning, reinforcement learning, and explainable AI (XAI).**
+  I am passionate about building practical AI solutions by combining state-of-the-art techniques with a deep understanding of user needs and business goals.
   
-  
-  I am interested in **machine learning, deep learning, reinforcement learning, and EXplainable AI (XAI).**
-  
-  Also really interested in creating and providing solutions by applying AI technology and understanding of customers
+  I have hands-on experience in analyzing and modeling complex datasets across various domains, including **finance, cybersecurity** and **medical imaging**, with a particular focus on **financial time series analysis**.
 
+  Key projects include:
 
-
-  * Experience in analyzing and modeling various domain data including finance, security, and medical.
+  * Developed a robo-advisor solution for portfolio recommendation using Graph Neural Networks(GNN)
   
-  * Experience in deep learning research (automating stock trading, detecting malware, classifying images of skin lesions, etc.)
+  * Built automated stock trading models using deep reinforcement learning(DRL)
 
+  * Implemented CNN-based malware classifiers using image and metadata representations
+
+  * Developed CNN-based classifiers for skin lesion image classification
+
+  I am committed to building **interpretable, reliable, and user-centered AI systems**, and transforming advanced research into meaningful real-world applications.
 
 content: 
   - title: EDUCATION
@@ -66,15 +70,15 @@ content:
       - [2022.03]  **Songyi Lee, Bongkyo Moon, "Automatic Stock Trading based on Deep Reinforcement Learning using XAI(Explainable AI)"**, ARTINTEL2022 (Artificial Intelligence, Machine Learning and Data Science World Conference).
       - [2021.05]  **Songyi Lee, Bongkyo Moon, Juntae Kim, "Malware Classification Schemes Based on CNN Using Images and Metadata"**, 2021 Korea Information Processing Society Conference.
       - [2015.07]  **Songyi Lee, Yeon-a Park, "Proposed Expansion of Agricultural Product Consumption Using Omni-Channel" (Awarded)**, 	KAAFP(Korean Association of Agricultural and Food Policy), 25th KAAFP Conference.
-      - [2014.07]  **Eunji Kim‧Yeji Song‧Songyi Lee‧Sujin Hwang, "Analysis of rice confectionery consumption and competitiveness improvement plan: Using STP strategy" (Awarded)**, KAAFP(Korean Association of Agricultural and Food Policy), 24th KAAFP Conference.
+      - [2014.07]  **‧Songyi Lee, Yeji Song, Sujin Hwang, Eunji Kim, "Analysis of rice confectionery consumption and competitiveness improvement plan: Using STP strategy" (Awarded)**, KAAFP(Korean Association of Agricultural and Food Policy), 24th KAAFP Conference.
       
   - title: WORK
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - [2022.11 ~ present]   **KYOBO INFORMATION & COMMUNICATION CO., LTD./ AI Engineer, AI Business Team**
-      - [2022.04 ~ 2022.09]   **Wolgye middle school / Python Teaching (After-school)** 
-      - [2020.01 ~ 2020.05]   **ARION Technology Inc. (UNIQUE LAB) / Designer, Marketing Strategy Division**
-      - [2020.04 ~ 2020.12]   **DK EYEWEAR GROUP L.L.C / Designer, Local Sales Department**
+      - [2022.11 ~ present]   **AI Engineer, AI Business Team**, KYOBO DTS**
+      - [2022.04 ~ 2022.09]   **Python Instructor**, After-school Program, **Wolgye Middle School**
+      - [2020.01 ~ 2020.05]   **Designer**, Marketing Strategy Division, **ARION Technology Inc. (UNIQUE LAB)**
+      - [2020.04 ~ 2020.12]   **Designer**, Local Sales Department, **DK EYEWEAR GROUP L.L.C**
 
   - title: EXPERIENCE
     layout: text
@@ -82,7 +86,46 @@ content:
       - [2021.04 ~ 2021.10]  **National Cryptographic Technology Specialist Training Course 2021**, National Security Research Institute, Certificated
       - [2021.05 ~ 2021.09] **Financial Security Camp 2021**, Financial Security Institute, Certificated
       - [2017.02]  **Data Storage Portable Scan Device**, Patent Pending (No: 2017-0013776)
-      
+
+  - title: SKILL
+    layout: list
+    content:
+      - layout: left
+        sub_title: Programming Languages
+        caption: Python, JAVA
+        quote: >
+        description: |
+
+      - layout: left
+        sub_title: Deep Learning & Data Science Frameworks
+        caption: PyTorch, TensorFlow, Keras, OpenCV, Scikit-learn, Pandas, Numpy, Matplotlib, Seaborn
+        quote: >
+        description: |
+
+      - layout: left
+        sub_title: Database
+        caption: MySQL, PostgreSQL
+        quote: >
+        description: |  
+
+      - layout: left
+        sub_title: Development Tools & MLOps
+        caption:  Git, Docker, Jupyter Notebook, VS Code, Eclipse
+        quote: >
+        description: |
+
+      - layout: left
+        sub_title: Cloud Infrastructure
+        caption:  AWS EC2, S3, Lambda, RDS, CloudWatch
+        quote: >
+        description: |
+
+      - layout: left
+        sub_title: CI/CD
+        caption:  Jenkins
+        quote: >
+        description: |
+  
   - title: LANGUAGE
     layout: list
     content:
@@ -98,23 +141,7 @@ content:
         caption: DELE B2
         quote: >   
         description: | # this will include new lines to allow paragraphs
-        
-  - title: SKILL
-    layout: list
-    content:
-      - layout: left
-        title: 
-        sub_title: Python
-        caption: 
-        quote: >
-        description: | # this will include new lines to allow paragraphs
-      - layout: left
-        title: 
-        sub_title: MySQL
-        caption: 
-        quote: >   
-        description: | # this will include new lines to allow paragraphs 
-        
+
   - title: CERTIFICATE
     layout: list
     content:
