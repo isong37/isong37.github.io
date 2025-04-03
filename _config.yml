@@ -97,7 +97,7 @@ content:
         PyTorch, TensorFlow, Keras, OpenCV, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
         
       - **Web Frameworks**
-        Flask
+        Flask, Django
 
       - **Database**
         MySQL, PostgreSQL
