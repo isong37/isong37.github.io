@@ -91,7 +91,7 @@ content:
     layout: text
     content: |
       - **Programming Languages**
-        Python, Java, HTML, CSS
+        Python, Java
 
       - **Deep Learning & Data Science Frameworks**
         PyTorch, TensorFlow, Keras, OpenCV, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
